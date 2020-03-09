@@ -1,12 +1,15 @@
-title: Mike title
-author: Reze
-email: michalerezene@gmail.com
-theme: minima
-description: THis is the Description of Mike Reze
+---
+title: "Mike title"
+author: "Reze"
+email: "michalerezene@gmail.com"
+theme: "minima"
+description: "THis is the Description of Mike Reze"
   
 
 # social links
-twitter_username: mikereze(Twitter) # DO NOT include the @ character, or else the build will fail!
-github_username:  mikereze(github) # DO NOT include the @ character, or else the build will fail!
+twitter_username: "mikereze(Twitter)" # DO NOT include the @ character, or else the build will fail!
+github_username:  "mikereze(github)" # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+---
