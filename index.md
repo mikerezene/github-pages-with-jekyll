@@ -1,3 +1,3 @@
-# Welcome to Mike's Blog 
+# Welcome to Mike Reze's Blog 
 
 I'm glad you are here Because you met the React master  ...
